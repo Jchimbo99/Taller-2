@@ -1,0 +1,11 @@
+.group:hover .group-hover\:block {
+    display: block;
+}
+
+.group:hover .group-hover\:block {
+    display: block;
+}
+#hamburgerButton:focus + #mobileMenu,
+#hamburgerButton:active + #mobileMenu {
+    display: block;
+}
